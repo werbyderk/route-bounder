@@ -1,6 +1,7 @@
 # Route Bounder
 
 ### For creating "find along my route" tools
+#### Takes into account Earth's curvature for precise bounds
 
 [![temp-Imagegc-LWe0.jpg](https://i.postimg.cc/GhqP4fSj/temp-Imagegc-LWe0.jpg)](https://postimg.cc/yk335LKJ)
 
