@@ -1,0 +1,28 @@
+{
+    "name": "route-bounder",
+    "version": "1.0.1",
+    "description": "Create bounds between a polyline / set of waypoints. Useful for searching for places along a route.",
+    "main": "./dist/index.js",
+    "module": "./dist/index.mjs",
+    "types": "./dist/index.d.ts",
+    "files": [
+        "dist"
+    ],
+    "scripts": {
+        "build": "tsup"
+    },
+    "keywords": [
+        "maps",
+        "route",
+        "bounds",
+        "route-blocker"
+    ],
+    "author": "Derek Werbowy",
+    "license": "ISC",
+    "dependencies": {
+        "typescript": "^5.3.3"
+    },
+    "devDependencies": {
+        "tsup": "^8.0.1"
+    }
+}
